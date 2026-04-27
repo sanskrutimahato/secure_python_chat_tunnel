@@ -117,3 +117,5 @@ Browser / Mobile Client
 Public Access:
    localhost:8000  ──►  cloudflared tunnel  ──►  *.trycloudflare.com
 ```
+## 🚀 Project Ownership Note
+This project was developed as part of a collaborative academic assignment and is used for learning full-stack real-time systems.
