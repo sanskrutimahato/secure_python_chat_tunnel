@@ -118,4 +118,4 @@ Public Access:
    localhost:8000  ──►  cloudflared tunnel  ──►  *.trycloudflare.com
 ```
 🚀 **Project Ownership Note**  
-Built as part of a collaborative academic project, this repository showcases a learning-focused implementation of full-stack real-time systems.
+Developed as part of a collaborative academic initiative, this repository demonstrates a learning-oriented implementation of full-stack real-time systems.
