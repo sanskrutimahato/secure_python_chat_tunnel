@@ -1,6 +1,6 @@
 # 🟣 Twitch-Style AI Chat
 
-A full-stack, real-time chat application with a hybrid command engine — local instant commands and cloud AI responses via Google Gemini, served publicly through a Cloudflare Tunnel.
+A scalable, real-time collaborative chat platform with an intelligent hybrid command engine, streaming AI responses, and edge deployment via Cloudflare.
 
 ---
 
